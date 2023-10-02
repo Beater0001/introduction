@@ -7,3 +7,4 @@ Whislist
 Whislist Bulan Ini
 
 - dekor kamar natal theme
+- ngecat kamar
